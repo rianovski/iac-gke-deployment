@@ -15,5 +15,3 @@ This repository is structured to support the B2B reimbursements platform with a 
 ## Overview
 
 The project is organized to facilitate development, testing, deployment, and infrastructure management. Each folder is modular, making it easier to collaborate and maintain the application as it scales.
-
-For setup instructions and detailed usage, refer to the individual **README.md** files within each subfolder.
