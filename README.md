@@ -18,4 +18,6 @@ The project is organized to facilitate development, testing, deployment, and inf
 
 ## Diagram
 
-For a visual representation of the architecture, you can view the [diagram.png](diagram.png) file. This diagram illustrates the relationships between various components of the platform and provides a high-level overview of the system design.
+Below is a visual representation of the architecture:
+
+![Architecture Diagram](code/diagram.png)
