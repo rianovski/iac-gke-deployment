@@ -20,4 +20,4 @@ The project is organized to facilitate development, testing, deployment, and inf
 
 Below is a visual representation of the architecture:
 
-![Architecture Diagram](code/diagram.png)
+![Architecture Diagram](diagram.png)
